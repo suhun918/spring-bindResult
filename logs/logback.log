@@ -1,0 +1,10 @@
+[2020-02-13 12:43:46:3377251][http-nio-8080-exec-2] WARN  c.c.b.aop.warn.BindingAdvice - com.cos.bindingresult.controller.ProductController.상품등록()=>필드:Name메시지:상품명에 한글이 입력될 수 없습니다.
+[2020-02-13 12:48:08:3638959][http-nio-8080-exec-2] WARN  c.c.b.aop.warn.BindingAdvice - com.cos.bindingresult.controller.ProductController.상품등록() => 필드 : Name 메시지 : 상품명에 한글이 입력될 수 없습니다.
+[2020-02-13 13:35:28:6479652][http-nio-8080-exec-4] WARN  c.c.b.aop.warn.BindingAdvice - com.cos.bindingresult.controller.ProductController.상품등록() => 필드 : Name 메시지 : 상품명에 한글이 입력될 수 없습니다.
+[2020-02-13 13:36:02:6513338][http-nio-8080-exec-2] WARN  c.c.b.aop.warn.BindingAdvice - com.cos.bindingresult.controller.ProductController.상품등록() => 필드 : Price 메시지 : 가격을 입력하세요.
+[2020-02-13 13:36:02:6513350][http-nio-8080-exec-2] WARN  c.c.b.aop.warn.BindingAdvice - com.cos.bindingresult.controller.ProductController.상품등록() => 필드 : Name 메시지 : 상품명에 한글이 입력될 수 없습니다.
+[2020-02-13 13:36:22:6533778][http-nio-8080-exec-4] WARN  c.c.b.aop.warn.BindingAdvice - com.cos.bindingresult.controller.ProductController.상품등록() => 필드 : Name 메시지 : 상품명에 한글이 입력될 수 없습니다.
+[2020-02-13 13:36:22:6533779][http-nio-8080-exec-4] WARN  c.c.b.aop.warn.BindingAdvice - com.cos.bindingresult.controller.ProductController.상품등록() => 필드 : Price 메시지 : 가격을 입력하세요.
+[2020-02-13 13:36:25:6536016][http-nio-8080-exec-2] WARN  c.c.b.aop.warn.BindingAdvice - com.cos.bindingresult.controller.ProductController.상품등록() => 필드 : Name 메시지 : 상품명에 한글이 입력될 수 없습니다.
+[2020-02-13 13:36:26:6537448][http-nio-8080-exec-3] WARN  c.c.b.aop.warn.BindingAdvice - com.cos.bindingresult.controller.ProductController.상품등록() => 필드 : Name 메시지 : 상품명에 한글이 입력될 수 없습니다.
+[2020-02-13 13:36:27:6538300][http-nio-8080-exec-6] WARN  c.c.b.aop.warn.BindingAdvice - com.cos.bindingresult.controller.ProductController.상품등록() => 필드 : Name 메시지 : 상품명에 한글이 입력될 수 없습니다.
